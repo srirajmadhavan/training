@@ -9,7 +9,7 @@ function App() {
         <h1>App Header</h1>
       </header>
       <section>
-        <h1>Body goes here</h1>
+        <h1>Body goes here feature 3</h1>
       </section>
     </div>
   );
